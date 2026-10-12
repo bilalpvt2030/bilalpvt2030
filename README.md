@@ -53,7 +53,7 @@
       <h3><a href="https://github.com/bilalpvt2030/boba-charm-boutique">Boba Charm Boutique</a></h3>
       <p>An online store for phone charms, keychains and jewellery with a product catalogue, cart, checkout, customer orders, ordering over WhatsApp and an admin dashboard.</p>
       <p><b>Stack:</b> TanStack Start, React, TypeScript, Tailwind CSS, Supabase, Zustand, Zod</p>
-      <p><a href="https://github.com/bilalpvt2030/boba-charm-boutique">Source code</a></p>
+      <p><a href="https://boba-charm-boutique.vercel.app"><b>Live site</b></a> &nbsp;|&nbsp; <a href="https://github.com/bilalpvt2030/boba-charm-boutique">Source code</a></p>
     </td>
   </tr>
   <tr>
